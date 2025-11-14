@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/786429c6-ec9f-45c8-9e22-b97b42e47ad9" 
-       alt="Projectile" 
-       width="90%" />
+  <img src="https://github.com/user-attachments/assets/50bd5589-42f2-4526-a512-a02e6fa403af" />
+       
 </p>
 
 <br>
