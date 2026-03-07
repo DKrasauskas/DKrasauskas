@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKrasauskas&layout=compact&theme=dark&cache_seconds=120&langs_count=4" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKrasauskas&layout=compact&theme=dark&cache_seconds=86400&langs_count=4" 
        alt="Top Languages" 
        width="45%" />
 </p>
