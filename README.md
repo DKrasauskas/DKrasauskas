@@ -13,6 +13,4 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKrasauskas&layout=compact&theme=dark&langs_count=6&count_private=true" />
-       alt="Top Languages" 
-       width="45%" />
 </p>
