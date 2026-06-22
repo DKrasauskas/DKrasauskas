@@ -12,5 +12,5 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKrasauskas&layout=compact&theme=dark&langs_count=8&count_private=true&exclude_repo=Fire-And-Ice" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKrasauskas&layout=compact&theme=dark&langs_count=8&count_private=true&exclude_repo=Fire-And-Ice,ZeoliteAdsorbtion" />
 </p>
